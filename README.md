@@ -26,7 +26,7 @@
   ## Screenshot
   The following displays a snapshot of my README Generator Application:
 
-  ![Snapshot of my "README Generator".](<./image/Screenshot 2024-04-07 200920.png?raw=true>)
+  ![Snapshot of my "README Generator".](<Develop/image/Screenshot 2024-04-07 200920.png?raw=true>)
 
 
   ## Usage
