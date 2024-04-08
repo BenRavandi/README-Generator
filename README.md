@@ -24,12 +24,6 @@
 
   Link to my repository: "https://github.com/BenRavandi/README-Generator"
 
-  ## Screenshot
-  The following displays a snapshot of my README Generator Application:
-
-  ![Snapshot of my "README Generator".](<Develop/image/Screenshot 2024-04-07 200920.png?raw=true>)
-
-
   ## Usage
    To enable developers to create a professional README file from the command line.
 
