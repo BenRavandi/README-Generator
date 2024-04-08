@@ -7,7 +7,8 @@
   ## Description
   This project helps developers quickly create a professional README  without having to create the markdown syntax on their own by answering to the promts in their command line then a README file is created for them.
 
-  Here is a link to the use of this application "https://www.loom.com/share/9fe16c96ad6e497b915daaa53eee7601?sid=b06fce56-9229-42ee-8585-8d150f2178caw"
+  Here is a link to the use of this application: 
+  "https://www.loom.com/share/9fe16c96ad6e497b915daaa53eee7601?sid=b06fce56-9229-42ee-8585-8d150f2178caw"
   
   ## Table of Contents
   - [Installation](#installation)
